@@ -1,11 +1,24 @@
 {
-  "name": "unittest",
+  "name": "cypress-typescript-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to the Cypress TypeScript Project repository! This repository serves as a learning resource for working with Cypress using TypeScript on a Linux environment.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nafiz-hossain/cypress-typescript-project.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nafiz-hossain/cypress-typescript-project/issues"
+  },
+  "homepage": "https://github.com/nafiz-hossain/cypress-typescript-project#readme",
+  "dependencies": {
+    "cypress": "^13.6.6",
+    "typescript": "^5.3.3"
+  }
 }
