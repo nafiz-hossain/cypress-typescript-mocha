@@ -17,6 +17,8 @@ describe('Experience Section', () => {
       cy.contains('HiveMQTT').should('exist');
       cy.contains('CSS').should('exist');
       cy.contains('Electron').should('exist');
+      cy.get('img[src*="ti-logo.png"]').should('exist');
+
     });
   
     it('should contain Co Founder section', () => {
@@ -28,6 +30,7 @@ describe('Experience Section', () => {
       cy.contains('Volunteering').should('exist');
       cy.contains('Communication').should('exist');
       cy.contains('Collaboration').should('exist');
+      cy.get('img[src*="project-feed-a-family.jpg"]').should('exist');
     });
   
     it('should contain General Secretary section', () => {
@@ -42,6 +45,8 @@ describe('Experience Section', () => {
       cy.contains('Responsibility').should('exist');
       cy.contains('Accountability').should('exist');
       cy.contains('Innovation').should('exist');
+      cy.get('img[src*="csedusc.jpeg"]').should('exist');
+
     });
   
     it('should contain Executive Member section', () => {
@@ -54,6 +59,8 @@ describe('Experience Section', () => {
       cy.contains('Organizational Skills').should('exist');
       cy.contains('Networking').should('exist');
       cy.contains('Fundraising').should('exist');
+      cy.get('img[src*="csedusc.jpeg"]').should('exist');
+
     });
   });
   
