@@ -2,7 +2,7 @@
 
 Welcome to the Cypress TypeScript Project repository! This repository serves as a learning resource for working with Cypress using TypeScript on a Linux environment.
 
-[Link to Cypress Test Video](https://github.com/nafiz-hossain/cypressfolio/assets/33452602/5909bd80-1e06-4bea-ba18-a02a411a22e3)
+[Link to Cypress Test Video](https://github.com/nafiz-hossain/cypressfolio/assets/33452602/2c57035a-7eeb-4b27-b274-73f0289345e5)
 
 ## Installation
 
